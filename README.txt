@@ -1,0 +1,2 @@
+PY’s Wallet 2.0 — Foundation preview
+Use a NEW GitHub repository and enable GitHub Pages from main/root. Upload all four app files to the root. Do not overwrite your existing wallet. Open the new Pages URL in Safari, then Share > Add to Home Screen. First open online to cache files. Export JSON backups regularly. No cloud sync or v1 migration yet. Paste recognized payment text manually in Add. Test with sample records first. No bank credentials required. This is an untested-on-iPhone prototype, not a complete Money2Time replacement.
