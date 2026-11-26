@@ -1,4 +1,4 @@
-const C = 'pywallet-v402';
+const C = 'pywallet-v403';
 const ASSETS = ['./','./index.html','./manifest.json','./icon.png'];
 const scope = self.registration.scope;
 self.addEventListener('install', e => e.waitUntil((async () => {
