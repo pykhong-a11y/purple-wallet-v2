@@ -1,5 +1,5 @@
-const C = 'pywallet-v319';
-const ASSETS = ['./','./index.html','./manifest.json','./icon.png','./logos/shopee.png','./logos/grab.png','./logos/public.png','./logos/cimb.png','./logos/tng.png','./logos/hlb.png'];
+const C = 'pywallet-v320';
+const ASSETS = ['./','./index.html','./manifest.json','./icon.png'];
 const scope = self.registration.scope;
 self.addEventListener('install', e => e.waitUntil((async () => {
   const cache = await caches.open(C);
